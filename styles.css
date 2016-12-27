@@ -1,0 +1,25 @@
+body {
+	background-image: url("http://cdn.wallpapersafari.com/77/78/D53Vp4.jpg") ;
+}
+
+header {
+	background-color: red ;
+	font-family: 'Arima Madurai', cursive;
+}
+
+.individual-pet {
+	display: inline-block;
+}
+
+#all-pets {
+	text-align: center;
+	font-size: 12pt;
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.pet-image {
+	width: 400px;
+	height: 300px;
+}
+
